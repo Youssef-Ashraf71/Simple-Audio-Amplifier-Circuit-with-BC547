@@ -9,8 +9,7 @@ Here are the components that you will need to build this circuit:
 * 1x BC547 transistor amplifier
 * 1x 100 microfarad capacitor
 * 1x 1 microfarad capacitor
-* 1x 2K ohm resistor
-* 1x 10K ohm resistor
+* 2x 10K ohm resistor
 
 ## Circuit Diagram
 ![image](https://user-images.githubusercontent.com/83988379/230799255-7b201bb4-5eaa-4687-8926-03d3577f0b21.png)
