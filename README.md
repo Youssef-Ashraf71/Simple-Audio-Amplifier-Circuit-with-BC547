@@ -13,6 +13,7 @@ Here are the components that you will need to build this circuit:
 * 1x 10K ohm resistor
 
 ## Circuit Diagram
+![image](https://user-images.githubusercontent.com/83988379/230799255-7b201bb4-5eaa-4687-8926-03d3577f0b21.png)
 
 
 ## Building the Circuit
