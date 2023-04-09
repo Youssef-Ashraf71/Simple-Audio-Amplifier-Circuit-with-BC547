@@ -7,7 +7,7 @@ Here are the components that you will need to build this circuit:
 * 1x microphone
 * 1x speaker
 * 1x BC547 transistor amplifier
-* 1x 0.1 microfarad capacitor
+* 1x 100 microfarad capacitor
 * 1x 1 microfarad capacitor
 * 1x 2K ohm resistor
 * 1x 10K ohm resistor
